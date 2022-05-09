@@ -1,0 +1,11 @@
+{
+	"DossierRecupImages": "/Users/Thomas/_4A_21_22/Proj_4A/sous_echantillon",
+	"DossierNouvellesImages": "/Users/Thomas/_4A_21_22/Proj_4A/sous_echantillon_cree",
+	"tailleImageY": 400,
+	"tailleImageX": 560,
+	"Nombre_axe_ACP": 10,
+	"NbImagesACreer": 15,
+	"Methode": 3,
+	"Afficher_images" : false,
+	"Affichage_score": false
+}
